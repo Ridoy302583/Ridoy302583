@@ -4,7 +4,10 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Ridoy302583&&style=flat-square)  
-  
+ <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+MD.+ALLMAMUN+RIDOY🙋‍♂️;HI,+I'M+MD.+ALLMAMUN+RIDOY👋&center=true" alt="Typing SVG" /><br/>
+</p>
+
 
 <br/>  
   
