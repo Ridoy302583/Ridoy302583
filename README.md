@@ -44,7 +44,7 @@
 ### Github Stats: 
  <div align="center">
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridoy302583&theme=nightowl&hide_border=true)<br/>
-  <\div>
+  </div>
 
 <table><tr><td valign="top" width="50%">
 
