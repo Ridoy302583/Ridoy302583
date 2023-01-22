@@ -42,8 +42,9 @@
 
   
 ### Github Stats: 
- 
+ <div align="center">
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridoy302583&theme=nightowl&hide_border=true)<br/>
+  <\div>
 
 <table><tr><td valign="top" width="50%">
 
@@ -67,7 +68,7 @@
   
 
 <br/>
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+<img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
 ![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
