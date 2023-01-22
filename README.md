@@ -3,7 +3,6 @@
 </div>  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Ridoy302583&&style=flat-square) 
 <p align="center">
 <a href="https://github.com/Ridoy302583/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Ridoy302583"></a>
 <a href="https://github.com/Ridoy302583?tab=followers"><img src="https://img.shields.io/github/followers/Ridoy302583?label=Followers&style=social" alt="GitHub Badge"></a>
