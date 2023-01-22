@@ -40,19 +40,7 @@
 <br/>  
 
 
-
-## Connect with me  
-<div align="center">
-<a href="https://www.facebook.com/100051438584443" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/engr-md-allmamun-ridoy-aa6011249" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
-
-<br/>  
 ### Github Stats: 
  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridoy302583&theme=nightowl&hide_border=true)<br/>
@@ -66,9 +54,21 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy302583&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </td></tr></table> 
-## 🏆 GitHub Trophies:
- ![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
+## Connect with me  
+<div align="center">
+<a href="https://www.facebook.com/100051438584443" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/engr-md-allmamun-ridoy-aa6011249" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
