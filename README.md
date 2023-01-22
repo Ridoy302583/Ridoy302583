@@ -67,8 +67,9 @@
   
 
 <br/>
-## Achivement:
-![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+
+![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
