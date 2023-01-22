@@ -3,7 +3,11 @@
 </div>  
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Ridoy302583&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=Ridoy302583&&style=flat-square) 
+<p align="center">
+<a href="https://github.com/Ridoy302583/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=Ridoy302583"></a>
+<a href="https://github.com/Ridoy302583?tab=followers"><img src="https://img.shields.io/github/followers/Ridoy302583?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+MD.+ALLMAMUN+RIDOY🙋‍♂️;HI,+I'M+MD.+ALLMAMUN+RIDOY👋&center=true" alt="Typing SVG" /><br/>
 </p>
