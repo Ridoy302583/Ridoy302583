@@ -57,7 +57,7 @@
 </td></tr></table> 
  
 <div align="center">
-  <h1> Connect With Me:</h1> 
+  <h3> Connect With Me:</h3> 
 <a href="https://www.facebook.com/100051438584443" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
@@ -69,7 +69,7 @@
 
 <br/>
   <div align="center">
-<img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+<img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/><h3> Achievement</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
