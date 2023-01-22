@@ -42,9 +42,9 @@
 
   
 ### Github Stats: 
- <div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridoy302583&theme=nightowl&hide_border=true)<br/>
-  </div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ridoy302583&theme=nightowl&hide_border=true)<br/>
+
 
 <table><tr><td valign="top" width="50%">
 
@@ -55,7 +55,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy302583&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </td></tr></table> 
-
+ <div align="center">
 ## Connect with me  
 <div align="center">
 <a href="https://www.facebook.com/100051438584443" target="_blank">
