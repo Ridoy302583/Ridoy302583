@@ -2,8 +2,7 @@
 <img src="https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" align="center" style="width: 100%" />
 </div>  
   
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-- 🌱 I’m currently learning- Machine Learning, AWS, NLP, Kubernets, Robotics  
+- 🌱 I’m currently learning- <strong>Machine Learning, AWS, NLP, Kubernets, Robotics<\strong>  
   
 
 - 🌱I'm interested in Android, Machine Learning, Robotics  
@@ -53,9 +52,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ridoy302583&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy302583&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy302583&hide_border=true&layout=compact" align="center" />  
 
 <br/>  
 
 
-----
