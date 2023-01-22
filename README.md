@@ -1,6 +1,12 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/gist/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" align="center" style="width: 100%" />
 </div>  
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=Ridoy302583&&style=flat-square)  
+  
+
+<br/>  
   
 - 🌱 I’m currently learning- <strong>Machine Learning, AWS, NLP, Kubernets, Robotics<\strong>  
   
@@ -49,11 +55,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ridoy302583&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridoy302583&hide_border=true&layout=compact" align="center" />  
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
-
-
