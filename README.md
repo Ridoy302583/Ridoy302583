@@ -55,8 +55,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy302583&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </td></tr></table> 
- <div align="center">
-## Connect with me  
+ ## Connect with me
+
+  
 <div align="center">
 <a href="https://www.facebook.com/100051438584443" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -68,6 +69,7 @@
   
 
 <br/>
+  <div align="center">
 <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
 ![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
@@ -77,6 +79,6 @@
 
 
 
- 
+  </div>
 
 <br/>  
