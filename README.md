@@ -67,7 +67,7 @@
   
 
 <br/>
-## 🏆 GitHub Trophies
+## Achivement:
 ![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
