@@ -53,7 +53,7 @@
   
 
 <br/>  
-# 📊 GitHub Stats:
+### Github Stats: 
  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Ridoy302583&theme=nightowl&hide_border=true)<br/>
 
@@ -66,8 +66,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoy302583&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </td></tr></table> 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies:
+ ![](https://github-profile-trophy.vercel.app/?username=Ridoy302583&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
